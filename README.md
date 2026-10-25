@@ -1,14 +1,22 @@
+<div align="center">
+  
 # Hey, I'm Taha Bardanwala 👋
 
 ### Computer Engineering Student | Software Developer in Progress
+</div>
 
 I enjoy turning ideas into practical software, exploring how applications work behind the scenes, and learning by building real projects.
 
 Currently focused on **Python, backend development, and full-stack engineering**. I’m working toward writing cleaner, more reliable code and understanding the systems I build—not just making them work.
 
+<div align="center">
+  
+## Connect with Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahabardanwala53@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahabardanwala)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-bardanwala-505050277/)
-
+</div>
 ---
 
 ## 🧰 Tech Stack
