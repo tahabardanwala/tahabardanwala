@@ -7,7 +7,7 @@ I enjoy turning ideas into practical software, exploring how applications work b
 Currently focused on **Python, backend development, and full-stack engineering**. I’m working toward writing cleaner, more reliable code and understanding the systems I build—not just making them work.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahabardanwala)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/taha-bardanwala-505050277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taha-bardanwala-505050277/)
 
 ---
 
